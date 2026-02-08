@@ -12,3 +12,20 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+
+# Unreal Engine 5 temp and build files
+Saved/
+Intermediate/
+DerivedDataCache/
+.vscode/
+*.log
+*.sln
+*.user
+*.userprefs
+
+# Backup / autosave
+*.bak
+*.backup
+*.old
+*.tmp
+*.temp
